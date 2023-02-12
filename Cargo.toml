@@ -5,7 +5,6 @@ version = "0.3.0"
 
 [lib]
 name = "bevy_magic_light_2d"
-crate-type = ["cdylib", "lib", "staticlib"]
 path = "src/lib.rs"
 
 [dependencies]
